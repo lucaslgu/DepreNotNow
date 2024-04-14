@@ -9,7 +9,7 @@ decorator<=5.0
 ffmpeg==1.4
 Flask==2.1.2
 flask-restx==0.5.1
-idna==3.3
+idna==3.7
 imageio==2.18.0
 imageio-ffmpeg==0.4.7
 itsdangerous==2.1.2
