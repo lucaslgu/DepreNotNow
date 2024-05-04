@@ -29,7 +29,7 @@ pytz==2022.1
 requests==2.27.1
 six==1.16.0
 sounddevice==0.4.4
-tqdm==4.64.0
+tqdm==4.66.3
 typing_extensions==4.2.0
 urllib3>=1.16
 values==2020.12.3
