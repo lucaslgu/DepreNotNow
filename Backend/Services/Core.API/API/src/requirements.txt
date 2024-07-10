@@ -36,3 +36,4 @@ values==2020.12.3
 Werkzeug==2.1.2
 write==2020.12.3
 boto3>=1.23.1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
